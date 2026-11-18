@@ -1,0 +1,14 @@
+{
+  "name": "sonor",
+  "version": "17.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1",
+    "stripe": "^17.7.0",
+    "pg": "^8.13.1"
+  }
+}
